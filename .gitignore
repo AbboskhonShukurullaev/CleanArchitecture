@@ -13,6 +13,7 @@ xcuserdata/
 
 ## Other
 *.xcuserstate
+*.xcuserdata
 .idea/
 firebase-debug.log
 

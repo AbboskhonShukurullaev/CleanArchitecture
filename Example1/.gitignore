@@ -5,6 +5,7 @@
 /.xcuserstate
 project.xcworkspace/
 xcuserdata/
+*.xcuserdata
 /UserInterfaceState.xcuserstate
 
 .Trashes
